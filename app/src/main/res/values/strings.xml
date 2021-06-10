@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo 1</string>
+    <string name="name" translatable="false">Carlos</string>
+    <string name="editText_hint_name">Seu nome</string>
+    <string name="text_your_name">Informe seu nome</string>
+    <string name="text_show">Show me!</string>
+</resources>
